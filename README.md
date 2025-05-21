@@ -3,8 +3,9 @@
 ## 说明
 本github包含多任务多目标学习的一些模型 **(DeepFM, MMoE, PLE等)** 的实现代码，使用的数据为2021《微信大数据挑战赛》数据集。
 数据集可以通过百度网盘下载：
-通过网盘分享的文件：wechat_algo_data.zip
-链接: https://pan.baidu.com/s/16U_0cIek1EAiYgyhPRe1mw?pwd=dksk 提取码: dksk
+
+> 通过网盘分享的文件：wechat_algo_data.zip
+> 链接: https://pan.baidu.com/s/16U_0cIek1EAiYgyhPRe1mw?pwd=dksk 提取码: dksk
 
 ## 微信视频号推荐数据说明
 
